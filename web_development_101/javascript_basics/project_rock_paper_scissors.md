@@ -40,7 +40,8 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 <details markdown="block">
   <summary> Show Student Solutions </summary>
 
-- Add your solution below this line!
+- Add your solution below this line!- 
+- [Christianos' Solution](https://github.com/christianos1/RockPaperScissors)
 - [Daegudude's Solution](https://github.com/DaeguDude/rock-paper-scissors)
 - [Lord Artchur's Solution](https://github.com/lord-artchur/rock-paper-scissors)
 - [rEdDz's Solution](https://github.com/rEdDz45/rock-paper-scissors) - [View in Browser](https://reddz45.github.io/rock-paper-scissors/)
